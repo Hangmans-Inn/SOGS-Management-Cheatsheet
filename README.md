@@ -2,15 +2,6 @@
 
  A comprehensive guide for managing Session rooms using the SOGS (Session Open Group Server) tool.
 
- ## Table of Contents
-
- - [[#Introduction|Introduction]]
- - [[#Commands Overview|Commands Overview]]
-- [[#Room Management|Room Management]]
- - [[#User & Permissions Management|User & Permissions Management]]
- - [[#Advanced Options|Advanced Options]]
- - [[#Examples|Examples]]
-
  ---
 
  ## Introduction
