@@ -1,12 +1,10 @@
- # SOGS Management Cheatsheet
-
- A comprehensive guide for managing Session rooms using the SOGS (Session Open Group Server) tool.
+ # SOGS (Session Open Group Server) Cheatsheet
 
  ---
 
  ## Introduction
 
- SOGS, short for Session Open Group Server, is a powerful tool designed to aid administrators in managing Session rooms. This cheatsheet furnishes details about commands, permissions, user management, and practical usage examples to ease your SOGS administration endeavors.
+ SOGS, short for Session Open Group Server, is a powerful tool designed to Session Communities. This cheatsheet furnishes details about commands, permissions, user management, and practical usage examples to ease your SOGS administration endeavors.
 
  ---
 
@@ -127,5 +125,3 @@ sogs --delete-room TOKEN
  ---
 
  **Note**: Always ensure you're using valid session IDs and room tokens when executing commands.
-
- #Tags: #SOGS #Management #Cheatsheet #Commands #Permissions
