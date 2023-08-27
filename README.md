@@ -1,7 +1,5 @@
  # SOGS (Session Open Group Server) Cheatsheet
 
- ---
-
  ## Introduction
 
  SOGS, short for Session Open Group Server, is a powerful tool designed to Session Communities. This cheatsheet furnishes details about commands, permissions, user management, and practical usage examples to ease your SOGS administration endeavors.
